@@ -24,8 +24,6 @@ Everything here is from authorized environments (labs, CTFs, VDPs, or programs w
 
 ## Status
 
-| Platform         | Completed        |
-| ---------------- | ---------------- | --------- | --- |
-| PortSwigger labs | 10               |
-| ---------------- | ---------        |
-| <!--             | ---------------- | --------- | --> |
+| Platform         | Completed |
+| ---------------- | --------- |
+| PortSwigger labs | 10        |
