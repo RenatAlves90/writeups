@@ -28,3 +28,8 @@ Why it happens (missing ownership check, trust in client-side value, etc.)
 Concrete fix.
 
 ## References
+
+## Sanitization checklist (before every commit/report)
+- [ ] Replace session cookies, tokens, API keys with <placeholder>
+- [ ] Mask emails/usernames of third parties
+- [ ] Remove real target hostnames when the program requires confidentiality
