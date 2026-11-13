@@ -35,7 +35,7 @@ Request 1
 ```http
 GET /blogs?userId=84350c24-0630-4213-86e2-2d5a5dbb1f77 HTTP/2
 Host: 0a5500fd04e0400281c7129500c5000a.web-security-academy.net
-Cookie: session=NZGTjc8ynzCYYC1KgdypjZLRk1MUxyVq
+Cookie: session=<session>
 Sec-Ch-Ua: "Not:A-Brand";v="8", "Chromium";v="156"
 Sec-Ch-Ua-Mobile: ?0
 Sec-Ch-Ua-Platform: "Linux"
@@ -57,7 +57,7 @@ Request 2
 ```http
 GET /my-account?id=84350c24-0630-4213-86e2-2d5a5dbb1f77 HTTP/2
 Host: 0a5500fd04e0400281c7129500c5000a.web-security-academy.net
-Cookie: session=NZGTjc8ynzCYYC1KgdypjZLRk1MUxyVq
+Cookie: session=<session>
 Cache-Control: max-age=0
 Sec-Ch-Ua: "Not:A-Brand";v="8", "Chromium";v="156"
 Sec-Ch-Ua-Mobile: ?0
