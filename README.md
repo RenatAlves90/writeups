@@ -5,16 +5,10 @@ Everything here is from authorized environments (labs, CTFs, VDPs, or programs w
 
 ## Index
 
-### TryHackMe
-
-- [Pre Security](./tryhackme/pre-security/)
-- [Jr Penetration Tester](./tryhackme/jr-penetration-tester/)
-
 ### PortSwigger Academy
 
 - [Access control](./portswigger/access-control/)
 - [SQL Injection](./portswigger/sql-injection/)
-- [XSS](./portswigger/xss/)
 
 ### Methodology
 
