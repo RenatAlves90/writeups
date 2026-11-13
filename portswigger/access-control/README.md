@@ -14,7 +14,6 @@ horizontal privilege escalation, IDOR, and mass assignment.
 - [x] User ID controlled by request parameter, with unpredictable user IDs-Apprentice
 - [x] User ID controlled by request parameter with data leakage in response-Apprentice
 - [ ] User ID controlled by request parameter with password disclosure-Apprentice
-- [ ] Insecure direct object references-Apprentice
 - [ ] URL-based access control can be circumvented-Practitioner
 - [ ] Method-based access control can be circumvented-Practitioner
 
