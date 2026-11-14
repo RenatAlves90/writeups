@@ -20,17 +20,9 @@ programs with public disclosure. Nothing from private or restricted programs.
 
 | Metric | Count |
 |---|---|
-| PortSwigger labs solved | 10 |
-| Writeups published | 10 |
-
-## Progress log
-
-| Date | Event |
-|---|---|
-| 2026-11-11 | Setup day: VM, repos, first SQLi labs |
-| 2026-11-12 | SQLi (2) + Access control (4) |
-| 2026-11-13 | Access control IDOR family (4) |
-
+| PortSwigger labs solved | 13 |
+| Writeups published | 13 |
+| Practitioner labs solved | 2 |
 
 ## Notes
 
