@@ -13,9 +13,12 @@ horizontal privilege escalation, IDOR, and mass assignment.
 - [x] User ID controlled by request parameter — [writeup](./05-user-id-controlled.md)
 - [x] Insecure direct object references — [writeup](./06-insecure-direct-object-references.md)
 - [x] User ID controlled by request parameter, with unpredictable user IDs — [writeup](./07-unpredictable-user-ids.md)
-- [x] User ID controlled by request parameter with data leakage in response — [writeup](./08-data-leakage-in-response.md)
+- [x]  User ID controlled by request parameter with data leakage in response — [writeup](.08-data-leakage-in-response.md)
+- [x] Insecure direct object references (alternate flow) —  [writeup](./09-password-disclosure.md)
 
-
+### Practitioner
+- [x] URL-based access control can be circumvented — [writeup](./10-url-based-circumvented.md)
+- [x] Method-based access control can be circumvented — [writeup](./11-method-based-circumvented.md)
 
 ## Takeaways
 
@@ -39,9 +42,6 @@ Checklist before any payload:
 - The rendered page lies; the raw response tells the truth. Read every 3xx body
   in the Repeater before following the redirect.
 
-## Pending
-
-- Rename `08-data-leakage-in-response.md` → `08-data-leakage-in-redirect.md`
   (official lab name) and update the title inside the file.
 - Writeups for the three "solved, writeup pending" labs — write them while the
   reasoning is fresh (sections 6 and 7 decay fast).
