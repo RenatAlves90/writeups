@@ -16,13 +16,6 @@ programs with public disclosure. Nothing from private or restricted programs.
 - [Report template](./methodology/report-template.md)
 - [Accounts & handles registry](./methodology/accounts.md)
 
-## Status
-
-| Metric | Count |
-|---|---|
-| PortSwigger labs solved | 16 |
-| Writeups published | 16 |
-| Practitioner labs solved | 3 |
 
 ## Notes
 
