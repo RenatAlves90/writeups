@@ -5,7 +5,7 @@ Labs, notes, and takeaways for authentication vulnerabilities: username enumerat
 ## Labs
 
 ### Apprentice
-- [ ] Username enumeration via different responses — [writeup](./01-username-enumeration-via-different-responses.md)
+- [x] Username enumeration via different responses — [writeup](./01-username-enumeration-via-different-responses.md)
 - [ ] 2FA simple bypass — [writeup](./02-2fa-simple-bypass.md)
 - [ ] Insufficient password recovery — [writeup](./03-insufficient-password-recovery.md)
 
