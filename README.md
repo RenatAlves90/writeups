@@ -20,9 +20,9 @@ programs with public disclosure. Nothing from private or restricted programs.
 
 | Metric | Count |
 |---|---|
-| PortSwigger labs solved | 13 |
-| Writeups published | 13 |
-| Practitioner labs solved | 2 |
+| PortSwigger labs solved | 16 |
+| Writeups published | 16 |
+| Practitioner labs solved | 3 |
 
 ## Notes
 
