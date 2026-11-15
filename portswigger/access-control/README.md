@@ -19,6 +19,9 @@ horizontal privilege escalation, IDOR, and mass assignment.
 ### Practitioner
 - [x] URL-based access control can be circumvented — [writeup](./10-url-based-circumvented.md)
 - [x] Method-based access control can be circumvented — [writeup](./11-method-based-circumvented.md)
+- [x] Multi-step process with no access control on one step — [writeup](./12-lab-multi-step-process-with-no-access-control-on-one-step.md)
+- [x] Multi-step process with no access control on one step — [writeup](./12-lab-multi-step-process-with-no-access-control-on-one-step.md)
+- [x] Referer-based access control — [writeup](./13-lab-referer-based-access-control.md)
 
 ## Takeaways
 
