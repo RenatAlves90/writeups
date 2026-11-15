@@ -5,8 +5,8 @@
 | **Topic**                   | Authentication                                                                                                                  |
 | **Difficulty**              | Apprentice                                                                                                                   |
 | **Date**                    | 2026-11-15                                                                                                                   |
-| **Time**                    |                                                                                                                                 |
-| **Solved without solution** |                                                                                                                                 |
+| **Time**                    |          20                                                                                                                       |
+| **Solved without solution** |             yes                                                                                                                    |
 | **Link**                    | [lab-username-enumeration-via-different-responses](https://portswigger.net/web-security/authentication/password-based/lab-username-enumeration-via-different-responses) |
 
 ## 1. Objective
