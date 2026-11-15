@@ -1,1 +1,55 @@
 # LAB: Multi-step process with no access control on one step
+
+|                             |                                                                                                                                 |
+| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| **Topic**                   | Access Control                                                                                                                  |
+| **Difficulty**              | Practitioner                                                                                                                   |
+| **Date**                    | 2026-11-15                                                                                                                   |
+| **Time**                    |                                                                                                                                 |
+| **Solved without solution** |                  yes                                                                                                               |
+| **Link**                    | [lab-multi-step-process-with-no-access-control-on-one-step](https://portswigger.net/web-security/access-control/lab-multi-step-process-with-no-access-control-on-one-step) |
+
+## 1. Objective
+
+Promote the user `carlos` to administrator status by bypassing role restrictions in a multi-step administrative action.
+
+## 2. Surface
+
+- The administrative panel interface where users can be managed or promoted.
+- The multi-step confirmation and execution process (specifically the final action endpoint or confirmation parameter handling).
+- HTTP requests involved in submitting the promotion request.
+
+## 3. Hypothesis
+
+If a multi-step administrative function verifies authorization only on the initial step or user interface page, but fails to validate privileges on the final confirmation or execution step, a lower-privileged user can directly invoke the final step parameter or endpoint to execute the privileged action.
+
+## 4. Payload that worked
+
+Request:
+[HTTP request]
+
+Response:
+[Relevant response]
+
+## 5. Why it works
+
+
+
+## 6. What I tried that failed
+
+
+
+## 7. In a real target (bounty translation)
+
+- Where it shows up: User management panels, multi-stage billing/upgrade workflows, checkout flows, and administrative configuration wizards where critical actions are split across sequential requests.
+- Quick detection: Intercepting the multi-step workflow in a proxy (like Burp Suite), skipping the intermediate validation or UI pages, and directly replaying or submitting the final request with a low-privileged session cookie.
+- Impact: Privilege escalation, unauthorized administrative actions, or financial/data manipulation.
+- In the report: Detailed request/response pairs demonstrating how skipping or directly invoking the final functional step bypasses access controls enforced on earlier steps.
+
+## 8. Bypass / variants noticed
+
+
+
+## 9. Takeaway
+
+Multi-step authorization checks must validate user privileges on every discrete request and state change, rather than assuming authorization inherited from previous steps.
