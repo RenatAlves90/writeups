@@ -5,7 +5,7 @@
 | **Topic**                   | Authentication                                                                                                                  |
 | **Difficulty**              | Practitioner                                                                                                                 |
 | **Date**                    | 2026-11-17                                                                                                                   |
-| **Time**                    |                                                                                                                                 |
+| **Time**                    |         6                                                                                                                        |
 | **Solved without solution** | yes                                                                                                                                 |
 | **Link**                    | [lab-broken-bruteforce-protection-ip-block](https://portswigger.net/web-security/authentication/password-based/lab-broken-bruteforce-protection-ip-block) |
 
