@@ -5,7 +5,7 @@
 | **Topic**                   | Authentication                                                                                                                  |
 | **Difficulty**              | Practitioner                                                                                                                 |
 | **Date**                    | 2026-11-17                                                                                                                   |
-| **Time**                    |                                                                                                                                 |
+| **Time**                    |                3                                                                                                              |
 | **Solved without solution** | yes                                                                                                                                 |
 | **Link**                    | [lab-broken-brute-force-protection-multiple-credentials-per-request](https://portswigger.net/web-security/authentication/password-based/lab-broken-brute-force-protection-multiple-credentials-per-request) |
 
