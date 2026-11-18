@@ -20,16 +20,16 @@ OAuth, Web LLM attacks.
 |---|---|---|
 | SQL injection | [sql-injection/](./sql-injection/) | 2 |
 | Access control | [access-control/](./access-control/) | 13 |
-| Authentication | [authentication/](./authentication/) | 3 |
+| Authentication | [authentication/](./authentication/) | 5 |
 
 ## Progress
 
 | Metric | Count |
 |---|---|
-| Labs solved | 18 |
-| Writeups published | 18 |
+| Labs solved | 20 |
+| Writeups published | 20 |
 | Apprentice complete topics | 11 |
-| Practicioner complete topics | 7 |
+| Practicioner complete topics | 9 |
 
 
 Rule: the index reflects files that exist, not labs solved. A solved lab
