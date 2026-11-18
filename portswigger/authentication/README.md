@@ -12,7 +12,7 @@ Labs, notes, and takeaways for authentication vulnerabilities: username enumerat
 ### Practitioner
 - [x] Username enumeration via subtly different responses — [writeup](./04-username-enumeration-via-subtly-different-responses.md)
 - [x] Username enumeration via response timing — [writeup](./05-username-enumeration-via-response-timing.md)
-- [ ] Broken brute-force protection, IP block — [writeup](./06-broken-brute-force-protection-ip-block.md)
+- [x] Broken brute-force protection, IP block — [writeup](./06-broken-brute-force-protection-ip-block.md)
 - [ ] Username enumeration via account lock — [writeup](./07-username-enumeration-via-account-lock.md)
 - [ ] Broken brute-force protection, multiple credentials per request — [writeup](./08-broken-brute-force-protection-multiple-credentials-per-request.md)
 - [ ] Brute-forcing a recovery token — [writeup](./09-brute-forcing-a-recovery-token.md)
