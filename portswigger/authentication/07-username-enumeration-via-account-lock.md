@@ -5,7 +5,7 @@
 | **Topic**                   | Authentication                                                                                                                  |
 | **Difficulty**              | Practitioner                                                                                                                 |
 | **Date**                    | 2026-11-17                                                                                                                   |
-| **Time**                    |                                                                                                                                 |
+| **Time**                    |                     15                                                                                                            |
 | **Solved without solution** | yes                                                                                                                                 |
 | **Link**                    | [lab-username-enumeration-via-account-lock](https://portswigger.net/web-security/authentication/password-based/lab-username-enumeration-via-account-lock) |
 
