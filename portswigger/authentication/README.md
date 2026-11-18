@@ -24,7 +24,7 @@ Labs, notes, and takeaways for authentication vulnerabilities: username enumerat
 - [ ] Offline password cracking — [writeup](./15-offline-password-cracking.md)
 
 ### Expert
-- [ ] Broken brute-force protection, multiple credentials per request — [writeup](./16-broken-brute-force-protection-multiple-credentials-per-request.md)
+- [x] Broken brute-force protection, multiple credentials per request — [writeup](./16-broken-brute-force-protection-multiple-credentials-per-request.md)
 - [ ] Password reset token leakage via referrer — [writeup](./17-password-reset-token-leakage-via-referrer.md)
 
 ## Takeaways
