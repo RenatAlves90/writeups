@@ -14,7 +14,7 @@ Labs, notes, and takeaways for authentication vulnerabilities: username enumerat
 - [x] Username enumeration via response timing — [writeup](./05-username-enumeration-via-response-timing.md)
 - [x] Broken brute-force protection, IP block — [writeup](./06-broken-brute-force-protection-ip-block.md)
 - [x] Username enumeration via account lock — [writeup](./07-username-enumeration-via-account-lock.md)
-- [ ] 2FA bypass using a brute-force attack — [writeup](./08-2fa-bypass-using-a-brute-force-attack.md)
+- [x] 2FA bypass using a brute-force attack — [writeup](./08-2fa-bypass-using-a-brute-force-attack.md)
 - [ ] Brute-forcing a recovery token — [writeup](./09-brute-forcing-a-recovery-token.md)
 - [ ] Password reset broken logic — [writeup](./10-password-reset-broken-logic.md)
 - [ ] Password reset poisoning via middleware — [writeup](./11-password-reset-poisoning-via-middleware.md)
