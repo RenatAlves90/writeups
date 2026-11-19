@@ -3,7 +3,7 @@
 |                             |                                                                                                                                 |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | **Topic**                   | Authentication (Multi-factor authentication)                                                                                  |
-| **Difficulty**              | Practitioner                                                                                                                 |
+| **Difficulty**              | Apprentice                                                                                                                 |
 | **Date**                    | 2026-11-18                                                                                                                   |
 | **Time**                    |                                     2                                                                                           |
 | **Solved without solution** | yes                                                                                                                                 |
