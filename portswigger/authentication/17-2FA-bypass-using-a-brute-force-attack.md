@@ -3,7 +3,7 @@
 |                             |                                                                                                                                 |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | **Topic**                   | Authentication (Multi-factor authentication)                                                                                  |
-| **Difficulty**              | Practitioner                                                                                                                 |
+| **Difficulty**              | Expert                                                                                                                 |
 | **Date**                    | 2026-11-19                                                                                                                   |
 | **Time**                    |         230                                                                                                                        |
 | **Solved without solution** | yes                                                                                                                                 |
