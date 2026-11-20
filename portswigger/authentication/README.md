@@ -25,7 +25,7 @@ Labs, notes, and takeaways for authentication vulnerabilities: username enumerat
 
 ### Expert
 - [x] Broken brute-force protection, multiple credentials per request — [writeup](./16-broken-brute-force-protection-multiple-credentials-per-request.md)
-- [ ] 2FA bypass using a brute-force attack — [writeup](./17-2FA-bypass-using-a-brute-force-attack.md)
+- [x] 2FA bypass using a brute-force attack — [writeup](./17-2FA-bypass-using-a-brute-force-attack.md)
 
 ## Takeaways
 
