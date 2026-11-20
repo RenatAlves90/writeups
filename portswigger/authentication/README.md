@@ -15,17 +15,14 @@ Labs, notes, and takeaways for authentication vulnerabilities: username enumerat
 - [x] Broken brute-force protection, IP block — [writeup](./06-broken-brute-force-protection-ip-block.md)
 - [x] Username enumeration via account lock — [writeup](./07-username-enumeration-via-account-lock.md)
 - [x] 2FA broken logic — [writeup](./08-2fa-broken-logic.md)
-- [ ] Brute-forcing a recovery token — [writeup](./09-brute-forcing-a-recovery-token.md)
-- [ ] Insufficient password recovery — [writeup](./10-insufficient-password-recovery.md)
-- [x] Password reset poisoning via middleware — [writeup](./11-password-reset-poisoning-via-middleware.md)
-- [x] Password brute-force via password change — [writeup](./12-password-brute-force-via-password-change.md)
-- [ ] 2FA broken logic — [writeup](./13-2fa-broken-logic.md)
-- [x] Brute-forcing a stay-logged-in cookie — [writeup](./14-brute-forcing-a-stay-logged-in-cookie.md)
-- [x] Offline password cracking — [writeup](./15-offline-password-cracking.md)
+- [x] Password reset poisoning via middleware — [writeup](./09-password-reset-poisoning-via-middleware.md)
+- [x] Password brute-force via password change — [writeup](./10-password-brute-force-via-password-change.md)
+- [x] Brute-forcing a stay-logged-in cookie — [writeup](./11-brute-forcing-a-stay-logged-in-cookie.md)
+- [x] Offline password cracking — [writeup](./12-offline-password-cracking.md)
 
 ### Expert
-- [x] Broken brute-force protection, multiple credentials per request — [writeup](./16-broken-brute-force-protection-multiple-credentials-per-request.md)
-- [x] 2FA bypass using a brute-force attack — [writeup](./17-2FA-bypass-using-a-brute-force-attack.md)
+- [x] Broken brute-force protection, multiple credentials per request — [writeup](./13-broken-brute-force-protection-multiple-credentials-per-request.md)
+- [x] 2FA bypass using a brute-force attack — [writeup](./14-2FA-bypass-using-a-brute-force-attack.md)
 
 ## Takeaways
 
