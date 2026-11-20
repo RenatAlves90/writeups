@@ -26,10 +26,10 @@ OAuth, Web LLM attacks.
 
 | Metric | Count |
 |---|---|
-| Labs solved | 24 |
-| Writeups published | 24 |
+| Labs solved | 25 |
+| Writeups published | 25 |
 | Apprentice complete topics | 12 |
-| Practicioner complete topics | 10 |
+| Practicioner complete topics | 11 |
 | Expert complete topics | 2|
 
 
