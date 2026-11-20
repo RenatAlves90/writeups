@@ -20,15 +20,15 @@ OAuth, Web LLM attacks.
 |---|---|---|
 | SQL injection | [sql-injection/](./sql-injection/) | 2 |
 | Access control | [access-control/](./access-control/) | 13 |
-| Authentication | [authentication/](./authentication/) | 9 |
+| Authentication | [authentication/](./authentication/) | 11 |
 
 ## Progress
 
 | Metric | Count |
 |---|---|
-| Labs solved | 25 |
-| Writeups published | 25 |
-| Apprentice complete topics | 12 |
+| Labs solved | 26 |
+| Writeups published | 26 |
+| Apprentice complete topics | 13 |
 | Practicioner complete topics | 11 |
 | Expert complete topics | 2|
 
