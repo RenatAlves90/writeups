@@ -7,7 +7,7 @@ Labs, notes, and takeaways for authentication vulnerabilities: username enumerat
 ### Apprentice
 - [x] Username enumeration via different responses — [writeup](./01-username-enumeration-via-different-responses.md)
 - [x] 2FA simple bypass — [writeup](./02-2fa-simple-bypass.md)
-- [ ] Insufficient password recovery — [writeup](./03-insufficient-password-recovery.md)
+- [x] Password reset broken logic — [writeup](./03-password-reset-broken-logic.md)
 
 ### Practitioner
 - [x] Username enumeration via subtly different responses — [writeup](./04-username-enumeration-via-subtly-different-responses.md)
@@ -16,7 +16,7 @@ Labs, notes, and takeaways for authentication vulnerabilities: username enumerat
 - [x] Username enumeration via account lock — [writeup](./07-username-enumeration-via-account-lock.md)
 - [x] 2FA broken logic — [writeup](./08-2fa-broken-logic.md)
 - [ ] Brute-forcing a recovery token — [writeup](./09-brute-forcing-a-recovery-token.md)
-- [ ] Password reset broken logic — [writeup](./10-password-reset-broken-logic.md)
+- [ ] Insufficient password recovery — [writeup](./10-insufficient-password-recovery.md)
 - [ ] Password reset poisoning via middleware — [writeup](./11-password-reset-poisoning-via-middleware.md)
 - [ ] Password brute-force via password change — [writeup](./12-password-brute-force-via-password-change.md)
 - [ ] 2FA broken logic — [writeup](./13-2fa-broken-logic.md)
