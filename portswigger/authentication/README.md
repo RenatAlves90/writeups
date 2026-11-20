@@ -18,7 +18,7 @@ Labs, notes, and takeaways for authentication vulnerabilities: username enumerat
 - [ ] Brute-forcing a recovery token — [writeup](./09-brute-forcing-a-recovery-token.md)
 - [ ] Insufficient password recovery — [writeup](./10-insufficient-password-recovery.md)
 - [x] Password reset poisoning via middleware — [writeup](./11-password-reset-poisoning-via-middleware.md)
-- [ ] Password brute-force via password change — [writeup](./12-password-brute-force-via-password-change.md)
+- [x] Password brute-force via password change — [writeup](./12-password-brute-force-via-password-change.md)
 - [ ] 2FA broken logic — [writeup](./13-2fa-broken-logic.md)
 - [x] Brute-forcing a stay-logged-in cookie — [writeup](./14-brute-forcing-a-stay-logged-in-cookie.md)
 - [x] Offline password cracking — [writeup](./15-offline-password-cracking.md)
