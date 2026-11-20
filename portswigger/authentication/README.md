@@ -21,7 +21,7 @@ Labs, notes, and takeaways for authentication vulnerabilities: username enumerat
 - [ ] Password brute-force via password change — [writeup](./12-password-brute-force-via-password-change.md)
 - [ ] 2FA broken logic — [writeup](./13-2fa-broken-logic.md)
 - [x] Brute-forcing a stay-logged-in cookie — [writeup](./14-brute-forcing-a-stay-logged-in-cookie.md)
-- [ ] Offline password cracking — [writeup](./15-offline-password-cracking.md)
+- [x] Offline password cracking — [writeup](./15-offline-password-cracking.md)
 
 ### Expert
 - [x] Broken brute-force protection, multiple credentials per request — [writeup](./16-broken-brute-force-protection-multiple-credentials-per-request.md)
