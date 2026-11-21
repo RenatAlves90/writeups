@@ -8,12 +8,13 @@ Labs, notes, and takeaways for Cross-Site Scripting vulnerabilities: Reflected, 
 - [x] Reflected XSS into HTML context with nothing encoded — [writeup](./01-reflected-html-nothing-encoded.md)
 - [x] Stored XSS into HTML context with nothing encoded — [writeup](./02-stored-html-nothing-encoded.md)
 - [x] DOM XSS in `document.write` sink using source `location.search` — [writeup](./03-dom-document-write-location-search.md)
-- [ ] DOM XSS in `document.write` sink using source `location.search` inside a select element — [writeup](./04-dom-document-write-select-element.md)
+- [ ] DOM XSS in jQuery selector attribute sink using back-button href — [writeup](./04-dom-jquery-selector-back-button.md)
 - [ ] DOM XSS in `innerHTML` sink using source `location.search` in search blog — [writeup](./05-dom-innerhtml-location-search.md)
 - [ ] DOM XSS in jQuery anchor `href` attribute sink using `location.search` source — [writeup](./06-dom-jquery-href-attribute.md)
-- [ ] DOM XSS in jQuery selector attribute sink using back-button href — [writeup](./07-dom-jquery-selector-back-button.md)
+
 
 ### Practitioner
+- [ ] DOM XSS in `document.write` sink using source `location.search` inside a select element — [writeup](./07-dom-document-write-select-element.md)
 - [ ] Reflected XSS into HTML context with most untrusted tags blocked — [writeup](./08-reflected-html-tags-blocked.md)
 - [ ] Reflected XSS into HTML context with all tags blocked except custom ones — [writeup](./09-reflected-html-custom-tags.md)
 - [ ] Reflected XSS into event handlers with `<` and `>` HTML-encoded — [writeup](./10-reflected-event-handlers-encoded.md)
