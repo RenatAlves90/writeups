@@ -8,7 +8,7 @@ Labs, notes, and takeaways for Cross-Site Scripting vulnerabilities: Reflected, 
 - [x] Reflected XSS into HTML context with nothing encoded — [writeup](./01-reflected-html-nothing-encoded.md)
 - [x] Stored XSS into HTML context with nothing encoded — [writeup](./02-stored-html-nothing-encoded.md)
 - [x] DOM XSS in `document.write` sink using source `location.search` — [writeup](./03-dom-document-write-location-search.md)
-- [ ] DOM XSS in jQuery selector sink using a hashchange event — [writeup](./04-dom-jquery-selector-hashchange.md)
+- [x] DOM XSS in jQuery selector sink using a hashchange event — [writeup](./04-dom-jquery-selector-hashchange.md)
 - [x] DOM XSS in `innerHTML` sink using source `location.search` in search blog — [writeup](./05-dom-innerhtml-location-search.md)
 - [x] DOM XSS in jQuery anchor `href` attribute sink using `location.search` source — [writeup](./06-dom-jquery-href-attribute.md)
 
