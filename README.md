@@ -9,6 +9,8 @@ programs with public disclosure. Nothing from private or restricted programs.
 ### PortSwigger Academy
 - [Access control](./portswigger/access-control/) — vertical/horizontal escalation, IDOR, mass assignment
 - [SQL injection](./portswigger/sql-injection/)
+- [Authentication Vulnerabilities](./portswigger/authentication/)
+- [Access Control](./portswigger/access-control/)
 
 ### Methodology
 - [Web app checklist](./methodology/checklist-web-app.md)
