@@ -17,6 +17,7 @@ Labs, notes, and takeaways for Cross-Site Scripting vulnerabilities: Reflected, 
 - [x] DOM XSS in `document.write` sink using source `location.search` inside a select element — [writeup](./07-dom-document-write-select-element.md)
 - [x] DOM XSS in AngularJS expression with angle brackets and double quotes HTML-encoded — [writeup](./08-dom-xss-angularjs-brackets-double-quotes.md)
 - [x] Reflected DOM XSS — [writeup](./09-reflected-dom-xss.md)
+- [x] Stored DOM XSS — [writeup](./10-stored-dom-xss.md)
 - [ ] Reflected XSS into HTML context with all tags blocked except custom ones — [writeup](./09-reflected-html-custom-tags.md)
 - [ ] Reflected XSS into event handlers with `<` and `>` HTML-encoded — [writeup](./10-reflected-event-handlers-encoded.md)
 - [ ] Reflected XSS into attribute with angle brackets HTML-encoded — [writeup](./11-reflected-attribute-angle-brackets-encoded.md)
