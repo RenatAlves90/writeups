@@ -12,7 +12,7 @@ Labs, notes, and takeaways for Cross-Site Scripting vulnerabilities: Reflected, 
 - [x] DOM XSS in `innerHTML` sink using source `location.search` in search blog — [writeup](./05-dom-innerhtml-location-search.md)
 - [x] DOM XSS in jQuery anchor `href` attribute sink using `location.search` source — [writeup](./06-dom-jquery-href-attribute.md)
 - [x] Reflected XSS into attribute with angle brackets HTML-encoded — [writeup](./07-reflected-angle-brackets-html-encoded.md)
-
+- [ ] Stored XSS into anchor `href` attribute with double quotes HTML-encoded — [writeup](./08-stored-href-attribute-double-quotes-encoded.md)
 
 ### Practitioner
 - [x] DOM XSS in `document.write` sink using source `location.search` inside a select element — [writeup](./07-dom-document-write-select-element.md)
@@ -22,7 +22,6 @@ Labs, notes, and takeaways for Cross-Site Scripting vulnerabilities: Reflected, 
 - [x] Reflected XSS into HTML context with most tags and attributes blocked — [writeup](./11-reflected-html-tags-and-attributes-blocked.md)
 - [x] Reflected XSS into HTML context with all tags blocked except custom ones — [writeup](./12-reflected-html-all-tags-and-attributes-blocked.md)
 - [x] Reflected XSS with some SVG markup allowed — [writeup](./13-reflected-svg-markup-allowed.md)
-- [ ] Stored XSS into anchor `href` attribute with double quotes HTML-encoded — [writeup](./12-stored-href-attribute-double-quotes-encoded.md)
 - [ ] Reflected XSS in canonical link tag — [writeup](./13-reflected-canonical-link-tag.md)
 - [ ] Reflected XSS into a JavaScript string with single quote and backslash escaped — [writeup](./14-reflected-js-string-single-quote-backslash.md)
 - [ ] Reflected XSS into a JavaScript string with angle brackets HTML-encoded — [writeup](./15-reflected-js-string-angle-brackets-encoded.md)
