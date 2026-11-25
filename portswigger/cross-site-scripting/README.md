@@ -22,7 +22,7 @@ Labs, notes, and takeaways for Cross-Site Scripting vulnerabilities: Reflected, 
 - [x] Reflected XSS into HTML context with most tags and attributes blocked — [writeup](./11-reflected-html-tags-and-attributes-blocked.md)
 - [x] Reflected XSS into HTML context with all tags blocked except custom ones — [writeup](./12-reflected-html-all-tags-and-attributes-blocked.md)
 - [x] Reflected XSS with some SVG markup allowed — [writeup](./13-reflected-svg-markup-allowed.md)
-- [ ] Reflected XSS in canonical link tag — [writeup](./13-reflected-canonical-link-tag.md)
+- [x] Reflected XSS in canonical link tag — [writeup](./14-reflected-canonical-link-tag.md)
 - [ ] Reflected XSS into a JavaScript string with single quote and backslash escaped — [writeup](./14-reflected-js-string-single-quote-backslash.md)
 - [ ] Reflected XSS into a JavaScript string with angle brackets HTML-encoded — [writeup](./15-reflected-js-string-angle-brackets-encoded.md)
 - [ ] Reflected XSS into a JavaScript string with angle brackets and double quotes HTML-encoded — [writeup](./16-reflected-js-string-angle-double-quotes-encoded.md)
