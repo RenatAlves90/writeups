@@ -20,7 +20,7 @@ Labs, notes, and takeaways for Cross-Site Scripting vulnerabilities: Reflected, 
 - [x] Stored DOM XSS — [writeup](./10-stored-dom-xss.md)
 - [x] Reflected XSS into HTML context with most tags and attributes blocked — [writeup](./11-reflected-html-tags-and-attributes-blocked.md)
 - [x] Reflected XSS into HTML context with all tags blocked except custom ones — [writeup](./12-reflected-html-all-tags-and-attributes-blocked.md)
-- [ ] Reflected XSS into attribute with angle brackets HTML-encoded — [writeup](./11-reflected-attribute-angle-brackets-encoded.md)
+- [ ] Reflected XSS with some SVG markup allowed — [writeup](./13-reflected-svg-markup-allowed.md)
 - [ ] Stored XSS into anchor `href` attribute with double quotes HTML-encoded — [writeup](./12-stored-href-attribute-double-quotes-encoded.md)
 - [ ] Reflected XSS in canonical link tag — [writeup](./13-reflected-canonical-link-tag.md)
 - [ ] Reflected XSS into a JavaScript string with single quote and backslash escaped — [writeup](./14-reflected-js-string-single-quote-backslash.md)
@@ -33,7 +33,7 @@ Labs, notes, and takeaways for Cross-Site Scripting vulnerabilities: Reflected, 
 - [ ] Exploiting XSS to capture passwords — [writeup](./21-exploiting-xss-to-capture-passwords.md)
 
 ### Expert
-- [ ] Reflected XSS with event handlers and attributes blocked — [writeup](./22-reflected-event-handlers-attributes-blocked.md)
+- [ ] Reflected XSS with event handlers and href attributes blocked — [writeup](./22-reflected-event-handlers-href-attributes-blocked.md)
 - [ ] Reflected XSS with Content Security Policy (CSP) bypass — [writeup](./23-reflected-csp-bypass.md)
 - [ ] Reflected XSS in a JavaScript URL with some characters blocked — [writeup](./24-reflected-js-url-characters-blocked.md)
 
