@@ -33,7 +33,7 @@ Labs, notes, and takeaways for Cross-Site Scripting vulnerabilities: Reflected, 
 - [ ] Exploiting XSS to capture passwords — [writeup](./21-exploiting-xss-to-capture-passwords.md)
 
 ### Expert
-- [ ] Reflected XSS with event handlers and href attributes blocked — [writeup](./22-reflected-event-handlers-href-attributes-blocked.md)
+- [x] Reflected XSS with event handlers and href attributes blocked — [writeup](./22-reflected-event-handlers-href-attributes-blocked.md)
 - [ ] Reflected XSS with Content Security Policy (CSP) bypass — [writeup](./23-reflected-csp-bypass.md)
 - [ ] Reflected XSS in a JavaScript URL with some characters blocked — [writeup](./24-reflected-js-url-characters-blocked.md)
 
