@@ -12,7 +12,7 @@ Labs, notes, and takeaways for Cross-Site Scripting vulnerabilities: Reflected, 
 - [x] DOM XSS in `innerHTML` sink using source `location.search` in search blog — [writeup](./05-dom-innerhtml-location-search.md)
 - [x] DOM XSS in jQuery anchor `href` attribute sink using `location.search` source — [writeup](./06-dom-jquery-href-attribute.md)
 - [x] Reflected XSS into attribute with angle brackets HTML-encoded — [writeup](./07-reflected-angle-brackets-html-encoded.md)
-- [ ] Stored XSS into anchor `href` attribute with double quotes HTML-encoded — [writeup](./08-stored-href-attribute-double-quotes-encoded.md)
+- [x] Stored XSS into anchor `href` attribute with double quotes HTML-encoded — [writeup](./08-stored-href-attribute-double-quotes-encoded.md)
 
 ### Practitioner
 - [x] DOM XSS in `document.write` sink using source `location.search` inside a select element — [writeup](./07-dom-document-write-select-element.md)
