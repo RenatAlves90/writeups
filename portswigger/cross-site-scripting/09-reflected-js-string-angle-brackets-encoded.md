@@ -3,7 +3,7 @@
 |                             |                                                                                                                                 |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | **Topic**                   | Cross-site scripting (XSS)                                                                                                    |
-| **Difficulty**              | Practitioner                                                                                                                   |
+| **Difficulty**              | APPRENTICE                                                                                                                   |
 | **Date**                    | 2026-11-26                                                                                                                     |
 | **Time**                    |                5                                                                                                                 |
 | **Solved without solution** | yes                                                                                                                             |
