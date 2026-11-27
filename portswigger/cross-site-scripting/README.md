@@ -13,7 +13,7 @@ Labs, notes, and takeaways for Cross-Site Scripting vulnerabilities: Reflected, 
 - [x] DOM XSS in jQuery selector sink using a hashchange event — [writeup](./06-dom-jquery-selector-hashchange.md)
 - [x] Reflected XSS into attribute with angle brackets HTML-encoded — [writeup](./07-reflected-angle-brackets-html-encoded.md)
 - [x] Stored XSS into anchor `href` attribute with double quotes HTML-encoded — [writeup](./08-stored-href-attribute-double-quotes-encoded.md)
-- [ ] Reflected XSS into a JavaScript string with angle brackets HTML encoded — [writeup](./09-reflected-js-string-angle-brackets-encoded.md)
+- [x] Reflected XSS into a JavaScript string with angle brackets HTML encoded — [writeup](./09-reflected-js-string-angle-brackets-encoded.md)
 
 ### Practitioner
 - [x] DOM XSS in `document.write` sink using source `location.search` inside a select element — [writeup](./10-dom-document-write-select-element.md)
@@ -24,9 +24,9 @@ Labs, notes, and takeaways for Cross-Site Scripting vulnerabilities: Reflected, 
 - [x] Reflected XSS into HTML context with all tags blocked except custom ones — [writeup](./15-reflected-html-all-tags-blocked-except-custom.md)
 - [x] Reflected XSS with some SVG markup allowed — [writeup](./16-reflected-svg-markup-allowed.md)
 - [x] Reflected XSS in canonical link tag — [writeup](./17-reflected-canonical-link-tag.md)
-- [ ] Reflected XSS into a JavaScript string with single quote and backslash escaped — [writeup](./18-reflected-js-string-single-quote-backslash.md)
-- [ ] Reflected XSS into a JavaScript string with angle brackets and double quotes HTML-encoded and single quotes escaped — [writeup](./19-reflected-js-string-angle-double-quotes-single-quote.md)
-- [ ] Stored XSS into onclick event with angle brackets and double quotes HTML-encoded and single quotes and backslash escaped — [writeup](./20-stored-onclick-event-encoded.md)
+- [x] Reflected XSS into a JavaScript string with single quote and backslash escaped — [writeup](./18-reflected-js-string-single-quote-backslash.md)
+- [x] Reflected XSS into a JavaScript string with angle brackets and double quotes HTML-encoded and single quotes escaped — [writeup](./19-reflected-js-string-angle-double-quotes-single-quote.md)
+- [x] Stored XSS into onclick event with angle brackets and double quotes HTML-encoded and single quotes and backslash escaped — [writeup](./20-stored-onclick-event-encoded.md)
 - [ ] Reflected XSS into a template literal with angle brackets, single, double quotes, backslash and backticks Unicode-escaped — [writeup](./21-reflected-template-literal-unicode-escaped.md)
 - [ ] Exploiting cross-site scripting to steal cookies — [writeup](./22-exploiting-xss-to-steal-cookies.md)
 - [ ] Exploiting cross-site scripting to capture passwords — [writeup](./23-exploiting-xss-to-capture-passwords.md)
@@ -37,7 +37,7 @@ Labs, notes, and takeaways for Cross-Site Scripting vulnerabilities: Reflected, 
 - [ ] Reflected XSS with AngularJS sandbox escape without strings — [writeup](./26-reflected-angularjs-sandbox-without-strings.md)
 - [ ] Reflected XSS with AngularJS sandbox escape and CSP — [writeup](./27-reflected-angularjs-sandbox-and-csp.md)
 - [x] Reflected XSS with event handlers and href attributes blocked — [writeup](./28-reflected-event-handlers-href-attributes-blocked.md)
-- [ ] Reflected XSS in a JavaScript URL with some characters blocked — [writeup](./29-reflected-js-url-characters-blocked.md)
+- [x] Reflected XSS in a JavaScript URL with some characters blocked — [writeup](./29-reflected-js-url-characters-blocked.md)
 - [ ] Reflected XSS protected by CSP, with CSP bypass — [writeup](./30-reflected-csp-bypass.md)
 
 ## Takeaways
