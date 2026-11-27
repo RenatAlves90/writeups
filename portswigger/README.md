@@ -27,11 +27,11 @@ OAuth, Web LLM attacks.
 
 | Metric | Count |
 |---|---|
-| Labs solved | 46 |
-| Writeups published | 46 |
-| Apprentice complete topics | 22 |
-| Practicioner complete topics | 21 |
-| Expert complete topics | 3|
+| Labs solved | 51 |
+| Writeups published | 51 |
+| Apprentice complete topics | 23 |
+| Practicioner complete topics | 24 |
+| Expert complete topics | 4|
 
 
 Rule: the index reflects files that exist, not labs solved. A solved lab
