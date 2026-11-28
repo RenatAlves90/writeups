@@ -27,9 +27,9 @@ Labs, notes, and takeaways for Cross-Site Scripting vulnerabilities: Reflected, 
 - [x] Reflected XSS into a JavaScript string with single quote and backslash escaped — [writeup](./18-reflected-js-string-single-quote-backslash.md)
 - [x] Reflected XSS into a JavaScript string with angle brackets and double quotes HTML-encoded and single quotes escaped — [writeup](./19-reflected-js-string-angle-double-quotes-single-quote.md)
 - [x] Stored XSS into onclick event with angle brackets and double quotes HTML-encoded and single quotes and backslash escaped — [writeup](./20-stored-onclick-event-encoded.md)
-- [ ] Reflected XSS into a template literal with angle brackets, single, double quotes, backslash and backticks Unicode-escaped — [writeup](./21-reflected-template-literal-unicode-escaped.md)
-- [ ] Exploiting cross-site scripting to steal cookies — [writeup](./22-exploiting-xss-to-steal-cookies.md)
-- [ ] Exploiting cross-site scripting to capture passwords — [writeup](./23-exploiting-xss-to-capture-passwords.md)
+- [x] Reflected XSS into a template literal with angle brackets, single, double quotes, backslash and backticks Unicode-escaped — [writeup](./21-reflected-template-literal-unicode-escaped.md)
+- [x] Exploiting cross-site scripting to steal cookies — [writeup](./22-exploiting-xss-to-steal-cookies.md)
+- [x] Exploiting cross-site scripting to capture passwords — [writeup](./23-exploiting-xss-to-capture-passwords.md)
 - [ ] Exploiting XSS to bypass CSRF defenses — [writeup](./24-exploiting-xss-to-bypass-csrf-defenses.md)
 - [ ] Reflected XSS protected by very strict CSP, with dangling markup attack — [writeup](./25-reflected-strict-csp-dangling-markup.md)
 
